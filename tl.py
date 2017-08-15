@@ -33,6 +33,7 @@ Categories = {
     'fan': 'Fan development',
     'is': 'IS bug work',
     'pers': 'Personal management',
+    'skill': 'Skills building',
     'comm': 'Community Involvment',
     'pto': 'Paid Timeout',
     }
@@ -66,7 +67,7 @@ def set_logfile(argfile=None):
             logfile = env
         else:
             home = os.path.expanduser("~")
-            logfile = '%s/.local/share/gtimelog/timelog.txt' % home
+            logfile = '%s/.gtimelog/timelog.txt' % home
     create_logfile(logfile)
     return logfile
 
