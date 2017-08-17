@@ -21,7 +21,7 @@ Categories = {
     'ua': 'L3 / L3 support',
     'lp': 'Launchpad & Public',
     'train': 'Mentoring / Edu / Training',
-    'meet': 'Meetings',
+    'meet': 'Internal meetings',
     'seg': 'SEG related activities',
     'charm': 'Charm Devel',
     'doc': 'Documentation',
