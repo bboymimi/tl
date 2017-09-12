@@ -37,6 +37,8 @@ Categories = {
     'fan': 'Fan development',
     'is': 'IS bug work',
     'pers': 'Personal management',
+    'skill': 'Skills building',
+    'team': 'Team support',
     'comm': 'Community Involvment',
     'pto': 'Paid Timeout',
     }
