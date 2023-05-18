@@ -37,6 +37,7 @@ Categories = {
     'team': 'Team support',
     'comm': 'Community Involvment',
     'pto': 'Paid Timeout',
+    'hr': 'hiring',
     }
 
 ListLimit = 10
