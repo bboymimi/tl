@@ -38,6 +38,7 @@ Categories = {
     'comm': 'Community Involvment',
     'pto': 'Paid Timeout',
     'hr': 'hiring',
+    'tool': 'tooling development',
     }
 
 ListLimit = 10
