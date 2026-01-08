@@ -18,27 +18,19 @@ import time
 import os
 
 Categories = {
-    'ua': 'L3 / L3 support',
-    'lp': 'Launchpad & Public',
     'train': 'Mentoring / Edu / Training',
     'meet': 'Internal meetings',
-    'seg': 'SEG related activities',
-    'charm': 'Charm Devel',
     'doc': 'Documentation',
     'kb': 'Knowledge base Work',
-    'z': 'Mainframe related',
-    'ib': 'Mellanox related',
-    'svvp': 'SVVP/Virtio dev',
-    'qe': 'QE',
-    'fan': 'Fan development',
-    'is': 'IS bug work',
-    'pers': 'Personal management',
     'skill': 'Skills building',
     'team': 'Team support',
     'comm': 'Community Involvment',
     'pto': 'Paid Timeout',
     'hr': 'hiring',
     'tool': 'tooling development',
+    'company': 'Tax / Paper work',
+    'project': 'routine project work',
+    'communication': 'kernel team communication',
     }
 
 ListLimit = 10
